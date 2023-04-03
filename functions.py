@@ -1,6 +1,7 @@
 from yahooquery import Ticker
 import requests
 
+#--------------------------------------------------------------------------------------
 # https://github.com/rreichel3/US-Stock-Symbols
 #--------------------------------------------------------------------------------------
 def download_nasdaq_symbols(path):
