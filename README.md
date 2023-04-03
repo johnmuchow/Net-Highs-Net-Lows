@@ -1,6 +1,6 @@
 Please :star: if you've found the project interesting and/or helpful.
 
-# Nasdaq Net New Highs/Net Lows
+# Nasdaq Net New Highs/Lows
 
 This project is based on concepts in [US Markets Net New Highs/Lows](https://www.tradingview.com/script/eP814cAv-US-Markets-Net-New-Highs-Lows/) indicator on TradingView, a project that I worked on with professional trader [Matt Caruso](https://carusoinsights.com/charting). Tracking net highs and lows on the Nasdaq can be helpful to gauge if momentum in tech stocks is on one direction or the other.
 
