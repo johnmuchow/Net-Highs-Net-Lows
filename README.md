@@ -43,9 +43,9 @@ I've added the **```-s```** option so you can see the process in action without 
 At the current time, the output is very basic, simply the highs/lows and net using a print() statement, similar to the following.
 
 ```
-New highs: 3
-New lows: 2
-Net highs/lows: 1
+New highs: 72
+New lows: 45
+Net highs/lows: 27
 ```
 
 ## Unit Tests using Pytest
